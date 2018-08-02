@@ -6,8 +6,8 @@ sudo apt-get install automake autopoint build-essential cmake curl doxygen gawk 
 
 Building Python:
 
-cd /some/place/steamlink-sdk/examples/
-git clone github
+cd /some/place/steamlink-sdk/examples
+git clone https://github.com/as42165/steamlink-python.git
 cd steamlink-python
 source ../../setenv.sh
 ./build_steamlink.sh
