@@ -1,4 +1,4 @@
-This is a script for building Python 2.7.15 from source for Steam Link devices.
+## Build Python 2.7.15 from source for Steam Link devices.
 
 You may first need to install a few of these packages if you don't have them installed already, on Debian/Ubuntu based distros run:
 ```
