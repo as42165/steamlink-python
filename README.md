@@ -1,9 +1,9 @@
 This is a script for building Python 2.7.15 from source for Steam Link devices.
 
 You may first need to install a few of these packages if you don't have them installed already, on Debian/Ubuntu based distros run:
-
+```
 sudo apt-get install automake autopoint build-essential cmake curl doxygen gawk git gperf libcurl4-openssl-dev libtool swig unzip zip zlib1g-dev wget pkg-config python
-
+```
 ## Building Python:
 ```
 cd /some/place/steamlink-sdk/examples
