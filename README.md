@@ -10,6 +10,7 @@ cd /some/place/steamlink-sdk/examples
 git clone https://github.com/as42165/steamlink-python.git
 cd steamlink-python
 source ../../setenv.sh
+chmod +x build_steamlink.sh
 ./build_steamlink.sh
 ```
 ## Installing Python on the Steam Link:
